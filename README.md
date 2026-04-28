@@ -1,4 +1,4 @@
-# Global Supply Chain & Profitability Insight Dashboard 
+# Global Supply Chain & Profitability Analytics (Excel + Power BI)
 
 ## 📊 Project Objective
 The objective of this project is to analyze global supply chain operations to identify inefficiencies in shipping performance and determine which product categories drive the highest profitability.
